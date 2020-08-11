@@ -9,6 +9,7 @@ The PenTesters Framework (PTF)
 https://www.trustedsec.com
 
 ### Twitter: @TrustedSec, @HackingDave
+[![Known Vulnerabilities](https://snyk.io/test/github/ddr01d3k4/ptf/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/ddr01d3k4/ptf?targetFile=requirements.txt)
 
 The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing. As pentesters, we've been accustom to the /pentest/ directories or our own toolsets that we want to keep up-to-date all of the time. We have those "go to" tools that we use on a regular basis, and using the latest and greatest is important.
 
@@ -174,5 +175,3 @@ The `IGNORE_UPDATE_ALL_MODULES=` config option can be found under config/ptf.con
 
 The `INCLUDE_ONLY_THESE_MODULES` in the config option under config/ptf.config will only install and include specific modules that are specified here. This is good for baselining the tools that you want and install only them.
 
-
- [![Known Vulnerabilities](https://snyk.io/test/github/ddr01d3k4/ptf/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/ddr01d3k4/ptf?targetFile=requirements.txt)
