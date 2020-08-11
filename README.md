@@ -175,3 +175,4 @@ The `IGNORE_UPDATE_ALL_MODULES=` config option can be found under config/ptf.con
 The `INCLUDE_ONLY_THESE_MODULES` in the config option under config/ptf.config will only install and include specific modules that are specified here. This is good for baselining the tools that you want and install only them.
 
 
+ [![Known Vulnerabilities](https://snyk.io/test/github/ddr01d3k4/ptf/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/ddr01d3k4/ptf?targetFile=requirements.txt)
